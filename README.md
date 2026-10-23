@@ -2,7 +2,7 @@
 
 - **Profesor:** Edwin Montoya
 - **Integrante:** Lorena Goez
-- **Video sustentación:**: 
+- **Video sustentación:** https://youtu.be/rosYI4xsjeQ
  
 ---
  
