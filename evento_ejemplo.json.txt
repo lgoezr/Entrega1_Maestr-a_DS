@@ -1,0 +1,7 @@
+{
+  "event_id": "7f9c2d1e-3b4a-4c8e-9d2f-1a2b3c4d5e6f",
+  "customer_id": "C000123",
+  "event_type": "login",
+  "value": 12.5,
+  "sent_ts": 1760000000123
+}
