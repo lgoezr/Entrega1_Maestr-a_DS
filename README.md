@@ -1,8 +1,8 @@
 # Trabajo 1: Capas Medallion y Streaming en AWS
 
-**Profesor:** Edwin Montoya
-**Integrante:** Lorena Goez
-**Video sustentación:**: 
+- **Profesor:** Edwin Montoya
+- **Integrante:** Lorena Goez
+- **Video sustentación:**: 
  
 ---
  
